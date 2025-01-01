@@ -9,7 +9,7 @@ The `createRoot` function is part of the `react-dom` library, introduced in **Re
 1. **Initializes a React Application**  
    `createRoot` sets up a "root" container where your React components will render into the DOM.
 
-2. **Enables Concurrent Mode**  
+2. **Enables Concurrent Mode*k*  
    By using `createRoot`, React activates "concurrent rendering," which improves performance by allowing React to prioritize and interrupt rendering tasks.
 
 ---
